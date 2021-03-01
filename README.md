@@ -14,6 +14,6 @@ cd Mail
 
 pip install -r requirements.txt
 
-python3 Mail.py
+python Mail.py
 
 ВНИМАНИЕ! ЗА ВАШИ ДЕЙСТВИЯ МЫ ОТВЕТСТВЕННОСТЬ НЕ НЕСЁМ!
