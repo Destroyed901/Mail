@@ -12,6 +12,8 @@ git clone https://github.com/Destroyed901/Mail
 
 cd Mail
 
+pip install -r requirements.txt
+
 bash install_update.sh
 
 python3 Mail.py
